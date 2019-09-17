@@ -1,4 +1,4 @@
-# Captain Automation • [![Netlify Status](https://api.netlify.com/api/v1/badges/a6cb1c92-c3c3-42d6-9bea-67ea419a4c7f/deploy-status)](https://app.netlify.com/sites/captainautomation/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/853f2d1e-9f72-42de-837a-5192f25ff3af/deploy-status)](https://app.netlify.com/sites/growth42-presentation/deploys)
 
 ## 🚀 Getting started
 
